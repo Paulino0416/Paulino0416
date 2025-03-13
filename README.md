@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, Seja Bem-Vindo!👋
 
-<!--
-**Paulino0416/Paulino0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Meu nome é Anderson, sou estudante de Ciência da Computação na UERJ.
+
+## Interesses
+
+## Habilidades
+
+* **Linguagens:** Python, Java.
+* **Ferramentas:** Git, Linux, VSCode, Intellij.
+
+## Projetos
+
+
+## Contato
+
+* [LinkedIn]()
+* [GitHub](https://github.com/Paulino0416)
+* [Email](guedes.anderson@graduacao.uerj.br)
+
+## Curiosidades
+
+* Adoro explorar novas tecnologias e aprender coisas novas.
+* Acredito que a tecnologia pode transformar o mundo para melhor.
+
